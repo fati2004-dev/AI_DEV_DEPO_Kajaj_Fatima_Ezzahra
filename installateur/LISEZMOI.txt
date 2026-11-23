@@ -1,0 +1,12 @@
+sentiment-app 1.0.0
+===================
+
+Ouvrez un terminal et lancez :
+
+  sentiment --help
+  sentiment predict "Livraison rapide, produit conforme, très satisfait"
+
+Le dossier d'installation contient son propre Python. Python n'a pas besoin d'être
+installé séparément. La commande sentiment est disponible dans les nouveaux terminaux.
+
+Pour une prédiction, l'application utilise le modèle fourni avec cette version.
